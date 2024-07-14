@@ -1,0 +1,40 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Streamlit
+.streamlit/
+
+# Virtual environment
+venv/
+env/
+.venv/
+rag_env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cursor-specific files (if any)
+.cursor/
+
+# Dependency directories
+node_modules/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
