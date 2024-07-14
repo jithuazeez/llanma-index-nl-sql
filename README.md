@@ -1,4 +1,4 @@
-# SQL Chatbot
+# NATURAL LANGUAGE TO SQL CHATBOT FOR YOUR DATABASE
 
 A Streamlit-based chatbot powered by Ollama & Open Source LLM for SQL queries.
 
