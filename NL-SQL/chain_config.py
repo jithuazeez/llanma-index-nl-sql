@@ -18,14 +18,10 @@ load_dotenv()
 
 
 table_details={
-    "branches" : "Stores the branch id and branch name",
-    "coupon_master": "Stores the details of coupon won by each customer",
-    "customer_master": "Stores the customer details",
-    "invoice_details": "Stores the details about the products purchased in each invoice",
-    "invoice_master": "Stores the details about purchases made by each customer"
+    "tablename" : "Descriptio",
 }
 
-tables=['branches','customer_master','invoice_details','invoice_master']
+tables=['tablenames']
 
 
 def configure_db():

@@ -23,7 +23,7 @@ def generate_response(prompt: str):
 
 def create_ui():
     st.title("💬 SQL Chatbot")
-    st.caption("🚀 A streamlit chatbot powered by Ollama & Open Source LLM for SQL queries")
+    st.caption("🚀 A streamlit chatbot powered by llama3 for SQL queries")
 
     initialize_session_state()
 
